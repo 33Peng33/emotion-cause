@@ -1,0 +1,1883 @@
+1 4
+ (1,3)
+1,not_clear,not_clear,Its really pretty but some things are not clear from advertisement/description.
+2,null,null,the sink grill fish tank they show you in the ad all work as different components... 
+3,null,null,when in fact they are one component and you have to change each item by attaching them onto this multiuse square sink/ dresser/ grill...
+4,null,null,The grill is particularly more difficult to remove 
+2 4
+ (4,1)
+1,null,null,When we received the package a small pink piece at the very top of the track that the elevator runs was actually broken
+2,null,null,it actually acts as a stop to prevent the elevator from coming off the track when it reaches the top
+3,null,null,and show our daughter where to stop when she gets to the top to prevent it from running off the track.
+4,fun,fun,All these things aside it is still a big barbie house and can provide lots of fun for many barbies at a time
+3 2
+ (1,2)
+1,cute,cute,the little details are very cute 
+2,null,null,on all the decorations  accessories.
+4 8
+ (1,2)
+1,love,love,My niece absolutely loved the house and she went to bed late
+2,null,null,because she was all into playing with it.
+3,null,null,I suggest you get a second person to help.
+4,null,null,There are a lot of small parts to the house. 
+5,null,null,You only need 3 triple A batteries for one part of the house and the rest of it 
+6,null,null,just requires snapping the correct parts together.
+7,null,null,The toilet makes a flushing sound and there is a fan that blows air.
+8,null,null,Totally a pass down to generation type of house if treated right by the owner.
+5 5
+ (1,2),(4,5)
+1,not_hard,not_hard,The house wasn't hard to put together 
+2,null,null,because it was partially assembled in the box. 
+3,null,null,Only a few snaps and we were on our way. 
+4,large,large,This dollhouse is much larger than the ones I had as little girl.
+5,null,null,My daughter is four and she has to stand up to reach the top floor. 
+6 3
+ (1,2),(1,3)
+1,worried,worried,I was worried about ordering this
+2,null,null,because of the reviews I read regarding the elevator not working
+3,null,null,but so far so good over here.
+7 6
+ (5,4)
+1,null,null,My daughter plays with it daily 
+2,null,null,and even with her big brothers shooting 
+3,null,null,the elevator up and down it is still in perfect condition.
+4,null,null,The garage door is hard to maneuver 
+5,frustrated,frustrated,and my daughter does get frustrated with it at times
+6,null,null,but I haven't had any issues with it coming off.
+8 3
+ (1,2)
+1,impressed,imporessed,I am also impressed 
+2,null,null,with the number of accessories that came with her house.
+3,null,null,I would definitely recommend for any small girl.
+9 11
+ (1,5)
+1,5_star,5_star,I would definitely give this a 5 star if the elevator pulley worked. 
+2,null,null,I showed my daughter how to play with the garage door carefully
+3,null,null,since I noticed it does not like to stay on the track.
+4,null,null,I also showed her how to carefully move the elevator 
+5,null,null,since the pulley system is cheap.
+6,null,null,She played with it for 30 minutes and then went to bed.
+7,null,null,The next day the elevator broke down
+8,null,null,and I had to go in and figure it out.
+9,null,null,I fixed it.
+10,null,null,It had to go all the way up then down to let the line out. 
+11,null,null,Next day it just stopped pulling all together as it kept getting caught up in the track. 
+10 6
+ (1,2),(1,3)
+1,3_star,3_star,I gave 3 star
+2,null,null,because of the ease in set up and over all it looks good and does not fall apart like a lot of stuff.
+3,null,null,But the moving parts I am dissatisfied with. 
+4,null,null,I admit I could have returned it
+5,null,null,but it was her birthday gift 
+6,null,null,and I didn't have the heart to take it from her
+11 9
+ (7,5)
+1,null,null,Your little princess will love this! 
+2,null,null,I say that jokingly having had to put it together.
+3,null,null,It comes in a thousand pieces
+4,null,null,but the first two floors come together already. 
+5,null,null,There is a very detailed step-by-step poster that you get in the Box.
+6,null,null,While the instructions are not written
+7,easy,easy,they are pictured, and easy to follow if you go step by step.
+8,null,null,It did take me two hours to put it together
+9,null,null,and that includes putting all of the little toothbrushes ovenware and table settings
+12 5
+ (1,2)
+1,cute,cute,too cute
+2,null,null,It has the sounds of a flushable toilet
+3,null,null,it has a fan that works, 
+4,null,null,a sink with running water sounds and tooth brushing sounds
+5,null,null,as well as an aquarium that turns. 
+13 5
+ (1,3)
+1,play,play,Our granddaughter has spent countless hours playing with her Barbie Dream House.
+2,null,null,She keeps her Barbie boat in the garage
+3,null,null,and she enjoys having her Barbies go up and down the elevator
+4,null,null,the hours that you spent putting it together will be well worth it 
+5,null,null,since there are many many many more hours of playtime.
+14 5
+ (1,5)
+1,great,great,The house is great
+2,null,null,but two parts had rips in it when we bought it
+3,null,null.and the toilet was broken with two missing parts.
+4,null,null,This is bad because the toilet was supposed to make flushing sounds.
+5,null,null,the house has so many fun features. 
+15 2
+ (1,2)
+1,fun,fun,the house has so many fun features. 
+2,null,null, the toilet was supposed to make flushing sounds
+16 4
+ (2,3)
+1,null,null,Oh my! What a Barbie house!
+2,dream,dream,What a dream for a little girl 
+3,null,null,who loves Barbie to have a house like this or her dolls! 
+4,null,null,It was everything I hoped for our granddaughter's 5th birthday.  
+17 3
+ (3,1)
+1,null,null,It was simple to assemble
+2,null,null,all the parts were there
+3,easy,easy,and easy to connect if you are patient.
+18 3
+ (2,1)
+1,null,null,The working garage 
+2,cute,cute,very cute
+3,null,null,Make sure to buy a car! 
+19 4
+ (4,1)
+1,null,null,The greenhouse window/pool is adorable!  
+2,null,null,The many accessories are too many to note!  
+3,null,null,The spot for the working TV is just the best!
+4,love,love,girl loves it
+20 2
+ (1,2)
+1,best,best,The best birthday gift ever!
+2,null,null,girl playing barbie house long time
+21 2
+ (1,2)
+1,love,love,My daughter love this house.
+2,null,null,So many accessories and details.
+22 3
+ (3,1)
+1,null,null,She loves the garage and her favorite accessorie is the sink 
+2,null,null,she is able to switch the top.
+3,recommend,recommend,Definitely recommend it, specially for the Barbie lovers
+23 5
+ (1,4)
+1,love,love,I love it because my daughter loves it
+2,null,null,This was the big ticket Christmas item, 
+3,null,null,and boy was it a huge hit 
+4,null,null,It took a bit to put together, but that was super fun to do with my daughter.
+5,null,null,She was able to participate and we spent all day Christmas assembling it  and playing house.
+24 6
+ (3,1),(3,2)
+1,null,null,The elevator works great, the garage manually goes up and down,
+2,null,null,and the window turns into a pool on the side of the garage. 
+3,sweet,sweet,All in all this thing is pretty sweet,
+4,null,null,tons of things to do to occupy the mind. 
+5,null,null,My daughter is actually using it with her Monster High dolls
+6,null,null,and it's a perfect fit!
+25 2
+ (1,2)
+1,sweet,sweet,Elevator is pretty sweet
+2,null,null,my 5 year old can operate it with ease.
+26 4
+ (2,1)
+1,null,null,Instructions included were very clear
+2,easy,easy, made the assembly easy
+3,null,null,It comes with all sorts of tiny little pieces like kitchen items, food and drink items, etc. 
+4,null,null,There is a ton of this stuff!  
+27 4
+ (4,3)
+1,null,null,Although it was very easy to assemble 
+2,null,null,the process one of the front pillars broke. 
+3,null,null,Within one week the garage door was broke the elevator has always stuck and never worked great. 
+4,flimsy,flimsy,The house is very flimsy and cheaply built.
+28 5
+ (5,4)
+1,null,null,We bought this for our daughter for Christmas. 
+2,null,null,This is the only thing she asked for 
+3,null,null,and as soon as she saw it we knew it was the right choice.
+4,null,null,It did need to be put together and is large
+5,surprise,surprise,if you want to surprise them with it together.
+29 6
+ (1,2)
+1,love,love,She loved it. 
+2,null,null,it was the only thing she asked for, for her Birthday. 
+3,null,null,The only hiccup I've run into so far is the elevator comes off its track sometimes.
+4,null,null,When that happens I need to pop out two screws 
+5,null,null,and run the cord that acts as the lift mechanism back into its respective gears
+6,null,null,Outside of that she's never had a complaint and plays with it every day.
+30 4
+ (3,1),(3,4)
+1,fabulous,fabulous,This dream house is just so fabulous
+2,null,null,I bought it for my daughter's 7 birthday
+3,happy,happy,and she is more than happy
+4,null,null,She can play there for hours just creating stories with her dolls and little stuff that comes with it are beautiful and well done.
+31 5
+ (5,4)
+1,null,null,Knowing that Amazon has a better return policy
+2,null,null,I ordered a new Dream house with the pasted on photos of what the Dream house should look like. 
+3,null,null,The price was down to $150
+4,null,null,There was an option that you could order a plain box with no markings. 
+5,suspicious,suspicious,That seemed risky and suspicious to me. 
+32 8
+ (1,2),(1,5)
+1,complain,complain,My complaints
+2,null,null,it seemed like this may have been a returned item
+3,null,null,the way the pieces were just thrown in the box, 
+4,null,null,not all of them in plastic; a broken piece dirt smudges on one of the floors
+5,null,null,There is a little bit of false advertising
+6,null,null,on the box they make it look like the fish tank can be snapped onto a windowsill
+7,null,null,and it can't- it can only be attached to the top of the bathroom sink
+8,null,null,and it's supposed to turn but it doesn't.
+33 3
+ (3,1)
+1,null,null,Easily assembled
+2,null,null,but they don't clearly explained where to stick the stickers. 
+3,good,good,Overall good toy
+34 7
+ (1,5)
+1,love,love,My 7 year old daughter absolutely loves this. 
+2,null,null,Her favorite thing is the table that makes noise and lights up 
+3,null,null,depending on what attachment you put on it 
+4,null,null,there's a sink a fish tank, a fan, etc.
+5,null,null,She loves putting the barbies in the elevator and loves the closet in the bedroom
+6,null,null,but it is definitely not big enough to hang all the clothes she owns, 
+7,null,null,probably enough space for 7 pieces.
+35 8
+ (6,7)
+1,null,null,The garage door goes up and down and fits a Barbie car she already had
+2,null,null,and there's a swimming pool on the side that comes down.
+3,null,null,You can also put a smart phone in the TV screen for the living room
+4,null,null,but my Samsung Galaxy didn't fit.
+5,null,null,It's ok,  I'd rather have her play with the house than watch on my phone.
+6,great,great,Overall, a great buy 
+7,null,null,since it provides hours of entertainment. 
+8,null,null,We've had it for 3 months and nothing has broken or stopped working.
+36 10
+ (1,2)
+1,love,love,My daughter absolutely LOVES this house.
+2,null,null,it is big, but does not take up her whole room, which I love It comes with all the furniture accessories pictured. 
+3,null,null,My daughter loves the interchangeable tops to the electronic console
+4,null,null,and letting her barbies watch TV on my Ipod. 
+5,null,null,I'll admit I thought that feature was gimmicky
+6,null,null,but its one of the features she actually uses regularly.
+7,null,null,We previously had one of the kid-kraft wooded doll houses
+8,null,null,but they really lacked in the details 
+9,null,null,more of a large box with just stickers
+10,null,null,and a few pieces of chunky "furniture".
+37 3
+ (1,2)
+1,love,love,My daughter loves the small details here 
+2,null,null,the shelving in the fridge to organize groceries the oven racks for cookies and baskets in the dishwasher to hold the silverware. 
+3,Not to mention, the plastic will survive water.
+38 8
+ (1,2),(1,5)
+1,5_star,5_star,My reasons for not giving 5 stars 
+2,null,null,the garage door does stick come off the tracks easily.
+3,null,null,This is not a problem
+4,null,null,but I did have to teach her several times how to unstick it gently.
+5,null,null,Also, the roof fronts are cardboard which is really annoying. 
+6,null,null,I may take them out and laminate them 
+7,null,null, or find a way to make them more durable. 
+8,null,null,The durability of the elevator makes me nervous
+39 5
+ (2,1)
+1,null,null,Overall the house goes together quickly and easily 
+2,recommend,recommend,I recommend the barbie house
+3,null,null,under 30 minutes from beginning to end. 
+4,null,null,The garage is a bit small for some cars 
+5,null,null,but fits the glam convertible perfectly. 
+40 7
+ (7,3)
+1,null,null,why I am not docking stars for this issue  was delivery.
+2,null,null,My house came 
+3,null,null,and had several broken missing pieces it looked like a previously returned item that had not been fully checked over.
+4,null,null,Also I had requested the item to ship in an amazon box
+5,null,null,and it still came in just the original packaging. 
+6,null,null,My daughter opened the door and unfortunately saw the gift before we could stop her. 
+7,upset,upset,I'm still upset at that one
+41 4
+ (1,2)
+1,believe,believe,I believe this is more so intended for older girls who are interested in barbies
+2,null,null,because of all the small pieces
+3,null,null,my three year old who has lost many of the tiny pieces
+4,null,null,but it I understand it wouldn't be sensible to make them much larger.
+42 3
+ (1,2)
+1,complaint,complaint,The only real complaint
+2,null,null,that I have is that it the furniture, balcony, front door and pillars are very flimsy plastic 
+3,null,null,and I don't see this house lasting long even with kids who are very careful and gentle with toys. 
+43 6
+ (1,5)
+1,gorgeous,gorgeous,It is gorgeous. 
+2,null,null,Shipping was great came rite on time. 
+3,null,null,Only thing she can not keep it organized lol 
+4,null,null,but it wonderful plays with her cousin all the time 
+5,null,null,it a very large house and instruction was derailed all the pieces were intact
+6,null,null,was a wonderful Christmas present for my autistic daughte
+44 5
+ (2,1)
+1,null,null,that is on the spectrum but she is highly functuit teaches her a lot 
+2,recommend,recommend,I will recommend this product to every child and adult 
+3,null,null,as I as well spend time playing doll house with her. 
+4,null,null,I wounder was is for her or for me hmmm 
+5,null,null,thank you amazon.
+45 7
+ (2,7)
+1,null,null,Got this for my little sister for Christmas.
+2,love,love,She LOVES it. 
+3,null,null,It didn't take much time to put this bad boy together. 
+4,null,null,Maybe 20 minutes?
+5,null,null,It would most likely take anyone else about 10 minutes 
+6,null,null,since the 2 grown men putting it together refused to look at the instructions.
+7,null,null, your Barbies can have cake strawberries smoothies and a whole chicken.
+46 7
+ (1,4),(1,7)
+1,3_star,3_star,I gave 3 stars
+2,null,null,We bought this for our 3 year old.
+3,null,null,It took 30-45 minutes to put together.
+4,null,null,the instructions very short and simple.
+5,null,null,There's not a lot to mess up while putting this together as the pieces are
+6,null,null,and we only glanced at the instructions a few times while putting this together. 
+7,null,null,The only thing we struggled with is the elevator. 
+47 5
+ (4,1)
+1,null,null,he house comes with plenty of accessories and by switching out the table top accessories, it makes plenty of different sounds. 
+2,null,null,I would recommend picking up the Glam Convertible as well. 
+3,null,null,I would recommend gluing on the mirrors though as they fall off pretty easy. 
+4,favorite,favorite,This was by far my daughters favorite christmas present 
+5,null,null,and she has played with it almost non stop.
+48 5
+ (1,4),(1,5)
+1,love,love,let me say that I love this
+2,null,null,I think I bought this more for myself than my daughter. 
+3,null,null,But let me get to the best part. 
+4,null,null,The packaging was great but there were LOTS of small pieces. 
+5,null,null,It was also super easy to assemble and even more fun to play with!
+49 5
+ (3,4)
+1,null,null,This thing is big! 
+2,null,null,I purchased as a birthday present for my daughter
+3,love,love but all kids love playing with it. 
+4,null,null,The elevator is a hit Took an hour or so to put together but the fun is endless. 
+5,null,null,Only concern is the tiny little accessories that get scattered and become a choking hazard for little ones.
+50 3
+ (1,3)
+1,happy,happy,Well worth it, my granddaughter is very happy with her dollhouse.
+2,null,null,This is one of the first toys that I've seen her really take care of. 
+3,null,null,She loves how big it is and all the amenities that comes along with it. 
+51 3
+ (2,3)
+1,null,null,My daughter was ecstatic to finally get her own Barbie Dreamhouse
+2,awesome,awesome,and this one is definitely awesome!! 
+3,null,null,It is 3 stories and has 7 different rooms. 
+52 2
+ (1,2)
+1,awesome,awesome,this one is definitely awesome!! 
+2,null,null,It offers a play space of 4 feet tall and more than 3 feet wide!
+53 3
+ (3,1)
+1,null,null,It has a working elevator, and garage door.
+2,null,null,It also has 5 different interactive pieces such as a spinning fan and flaming stove top grill.
+3,awesome,awesome,this one is definitely awesome!!
+54 6
+ (6,1)
+1,null,null,The rooms are all decorated nicely and offer very modern decor for a Barbie world. 
+2,null,null,You can set up your smartphone in the tv slot in the living room to make the tv come to life.
+3,null,null,You will need AAA batteries for the interactive parts.
+4,null,null,It took us about 45 minutes to get it put together. 
+5,null,null,Since this item is so big it does ship in the original box...
+6,awesome,awesome,all in all this one is definitely awesome!! 
+55 6
+ (6,1),(6,5)
+1,null,null,The house is very nice. My daughter loves playing with it.
+2,null,null,My only issue is that the elevator broke the same day she started playing with it 
+2,null,null,and the garage door will not stay in place 
+3,null,null,the handle that keeps it in place keeps falling off.
+4,null,null,For $200 I wish it would work properly.
+5,null,null,I will say it has some cool features like the ability to use your cell phone as the flat screen TV. 
+6,good,good,All and all, good purchase.
+56 5
+ (5,1)
+1,null,null,This thing is massive and very detailed. 
+2,null,null,I put it together for Christmas 
+3,null,null,and my adult self was totally jealous of having such a wonderful Barbie dream house!!
+4,null,null,Where was this when I was little??
+5,love,love, I do love it
+57 4
+ (1,2)
+1,complaint,complaint,my complaint
+2,null,null,the door on the garage is easy to come off
+3,null,null, it's tracks and I spend some time fixing that.
+4,null,null,Expect to spend an hour putting it together.
+58 4
+ (1,2),(1,3),(1,4)
+1,happy,happy,Overall, super happy with the product.
+2,null,null,Furniture is cute and elevator is a big hit with the girls. 
+3,null,null,Bathroom had sounds for a fan, toilet, running water and fish tank.
+4,null,null,maybe a working doorbell would be the next addition to the super awesome pad!!
+59 8
+ (6,1)
+1,null,null,It's cool! I'll acknowledge that! 
+2,null,null,Garage oven door elevator and its doors..they come off so easily! 
+3,null,null,Within the first week we were fixing it all the time.
+4,null,null,That being said... my five year old couldn't care less if the garage or elevator is jammed up
+5,null,null,She doesn't care one bit if there's no oven door on.
+6,love,love,She plays with it every day! And she loves it! 
+7,null,null,Every couple of weeks I sit down and set it all back up properly
+8,null,null,down to every feature and I love doing it
+60 2
+ (1,2)
+1,best,best,Best birthday present ever for my 4 years daughter.
+2,null,null,The house is amazing and was easy put it together.
+61 5
+ (4,3),(4,5)
+1,null,null,Bought this for my daughters 3rd birthday which was 3 months ago
+2,null,null,she lived it and still plays with it daily even my two older boys play with it with her.
+3,null,null,Assembly was very easy and everything just snapped together.
+4,4_star,4_star,Only 4 stars 
+5,null,null,because the elevator and garage door fall off a little to easy but they go right back on without a problem
+62 9
+ (1,4)
+1,excited,excited,I was over the moon excited for my 3 year old to receive her first Barbie Dream house.
+2,null,null,I'm glad we kept it. 
+3,null,null,It was the 2013 edition that opens up on the middle to create more room.
+4,null,null,It's perfect for her and her Barbie dolls. 
+5,null,null,She didn't need another pool anyway. 
+6,null,null,She has one on the camper and a glam Barbie pool.
+7,null,null,The garage is no big deal either. 
+8,null,null,I'm giving it 5 stars for the great mistake 
+9,null,null,Amazon made by sending the wrong doll house. 
+63 3
+ (1,2)
+1,love,love,My daughter loves this
+2,null,null,it was relatively easy to assemble 
+3,null,null,other than the garage door and the elevator... 
+64 4
+ (1,2)
+1,perplex,perplex,I'm perplexed  
+2,null,null,the dresser if you choose to flip it around and take the sink off to add the fan/tank then you have no sink in the bathroom.
+3,null,null,It would have made MUCH more sense to include 2 of them
+4,null,null,I didn't even bother to show my daughter that they were interchangeable.
+65 9
+ (1,2)
+1,0_star.0_star,Would have given it 0 stars if I could.  
+2,null,null,Straight out the box there was broken parts the elevator was also 
+broken.  
+3,null,null,There a string that is connected with the elevator.
+4,null,null,Stupid ideal for anyone who came up with an ideal to use a string to operate the elevator. 
+5,null,null,The string was out of place and the elevator would no longer go up or down.  
+6,null,null,When putting this house together for my child Parts begin to snap off.  
+7,null,null,The amount of pieces that came in the box is to small for the box itself.
+8,null,null,Everything is all bunch up.  
+9,null,null,Conclusion. Avoid this product or wait for a price drop.
+66 7
+ (7,1)
+1,null,null,My daughter loves it so much! Pink , fab , fun... she likes every part of it!
+2,null,null,It's not available in our country (Philippines)
+3,null,null,so she had to wait for 1 1/2 months for this.
+4,null,null,Her reaction upon seeing its box was priceless. 
+5,null,null,It was all worth it! 
+6,null,null,I'm Also glad that everything's working and that there were no missing pieces.
+7,happy,happy,Our princess is happy, and so we are more than happy!!
+67 4
+ (2,1)
+1,null,null,Over all my daughter loves this 
+2,happy,happy,I am happy with it. 
+3,null,null,I was very cautious with assembly
+4,null,null,so the pieces wouldn't break.
+68 8
+ (6,7)
+1,null,null,My 6 yr old daughter was desperately asking for this Barbie Dream house for Christmas
+2,null,null,but she already had the 1st Barbie dream house that came out about 3 yrs ago.
+3,null,null,So after much deliberation and review reading, 
+4,null,null,I decided to upgrade her and get this one......  
+5,null,null,it truly was an upgrade for a big 6 yr
+6,enjoy,enjoy,I'm so glad I did and even my almost 8 yr old niece enjoys it as well
+7,null,null,It is slightly taller than her also it has so many accessories big and small and the pool
+8,null,null,garage are an added bonus. 
+69 3
+ (1,2)
+1,expectation,expectation,it met our expectations and more. 
+2,null,null,The TV has a slot for you to put your cell phone to watch TV which makes it more realistic
+3,null,null,My daughter can spend hours playing
+70 6
+ (4,6)
+1,null,null,So much easier to put together than kid kraft 
+2,null,null,and has stayed together  
+3,null,null,I was worried my 4 yr yr old would distroy the garage or elevator. 
+4,impressive,impressive,She loves it. It's very impressive 
+5,null,null,Best part is it only took me 15 minutes xmas eve to put together  
+6,null,null,Comes with lots of fun accessories
+71 5
+ (1,4)
+1,best,best,Best Barbie house yet!
+2,null,null,My daughter has had hours of play with this fun house.
+3,null,null,The elevator works very well.
+4,null,null,She loves all of the little gadgets and the different sounds as well as all of the kitchen accessories! 
+5,null,null,I found this one mentioned the box was slightly damaged
+72 8
+ (8,7)
+1,null,null,I really dreaded buying this because of the very large size. 
+2,null,null,And I couldn't imagine how there could be enough variety in a doll house to entice my granddaughter for very long.
+3,null,null,But was I ever wrong
+4,null,null,This Barbie Dream House is a dream
+5,null,null,I raised boys and now they are adults. 
+6,null,null,it was impossible for me to imagine how enticing this toy could be for a four year old Barbie lover
+7,null,null,It is fantastic filled with creative little details
+8,captivates,captivates,it absolutely captivates my granddaughter!
+73 3
+ (3,1)
+1,null,null,Elevator broke a few times.
+2,null,null,Works better after some modifications. 
+3,expect,expect,Was expecting better quality for the price.
+74 6
+ (4,6)
+1,null,null,What little girl doesnt love a barbie dream house? 
+2,null,null,My 4 year old almost melted on Christmas day. 
+3,null,null,Other than all of the small peices, 
+4,happy,happyl,we're completely happy with this product! 
+5,null,null,The time to put it together really wasnt too bad...maybe 2 hours??? 
+6,null,null,And it also was easy to take a part when we moved.
+75 3
+ (2,3)
+1,null,null,This was a christmas gift for my daughter. 
+2,love,love,She loves it!! 
+3,null,null,It is very complete, great quality and guarantees hours of fun! 
+76 3
+ (1,2)
+1,love,love,My daughter loves her new dream house. 
+2,null,null,Easy to assemble. Packaged very well.
+3,null,null,All pieces were included as stated on the box. 
+77 5
+ (1,3)
+1,love,love,My daughter loves her new dream house.
+2,null,null, A little pricey for plastic
+3,null,null,but overall the house is sturdy and made well. 
+4,null,null,The elevator and garage door could have been made better to open and lift smoothly
+5,null,null,they often get stuck. 
+78 6
+ (1,2)
+1,ecstatic,ecstatic,My daughter was ecstatic to receive this Barbie Mansion for Christmas.
+2,null,null,She told me it was her best Christmas ever!
+3,null,null,The box was huge, but everything was packaged well. 
+4,null,null,And the elevator worked fine.
+5,null,null,My friend has told me that she and her friend are having hours of play.
+6,null,null,And now my friend can get a break,
+79 2
+ (1,2)
+1,love,love,my daughter loves it
+2,null,null,it comes with sound effects
+80 4
+ (4,1)
+1,null,null,The house comes with tons of accessories
+2,null,null,food make up hangers etc
+3,null,null,and I think the house is a great deal considering all that you get.
+4,fun,fun,Everything is well thought out and fun.
+81 6
+ (2,1)
+1,null,null,it took a solid 30 mins of construction and then another 30 of "decorating" with stickers accessories
+2,fun,fun,My wife and I had fun doing it and the instructions are well laid out and easy to follow
+3,null,null,I suggest using some superglue when attaching the pieces 
+4,null,null,to make sure the house is solid and one piece. 
+5,null,null,The last thing I want is this to be a pile of parts after a few months of rough playing by my girls.
+6,null,null,I went through 5 small tubes building it so buy the value pack from Amazon for 5 bucks. 
+82 6
+ (5,3)
+1,null,null,All items were in the box. 
+2,null,null,and they were in excellent condition
+3,null,null,The directions were easy to follow
+4,null,null,and it took me two hours to assemble. 
+5,quickly,quickly,Some people will probably assemble it more quickly
+6,null,null,but I took my time.
+83 3
+ (1,2)
+1,great,great,it is a great house
+2,null,null,I was surprised at how easy this was to put together. 
+3,null,null,There was a great YouTube video I found that made it very simple
+84 2
+ (1,2)
+1,thrilled,thrilled,My 4 year old daughter was thrilled.
+2,null,null,It comes with a lot of accessories.
+85 9
+ (1,3)
+1,easy,easy,The Barbie house is easy to put together
+2,null,null,I did it by myself in about 30-45 minutes
+3,null,null,Easy directions to follow
+4,null,null,Tons of accessories.
+5,null,null,I got this for my 3 year old daughter
+6,null,null,so I put hardly any of the small accessories out
+7,null,null,I think the elevator will probably break soon.
+8,null,null,I think it's one of those add ons that my kid won't even use
+9,null,null,That thing will NOT stay on the track
+86 2
+ (1,2)
+1,great,great,This is a great dollhouse. 
+2,null,null,It is super tall. 
+87 2
+ (1,2)
+1,love,love,my daughter loves dollhouse
+2,null,null,because it have pool and garage
+88 4
+ (2,3)
+1,null,null,First time Barbie house buyer
+2,best,best,I got the best house ever for my 10 years old daughter
+3,null,null,She can play with all her barbies and kens
+4,null,null,you can attached cell and play movie for her to watch with her dolls
+89 5
+ (3,4)
+1,null,null,This rating is on behalf of my niece
+2,null,null,who was determined that I purchase this Barbie Dream house
+3,love,love,She absolutely loves it 
+4,null,null,and plays with it everyday
+5,null,null,She also persuades me to play along with her some days.
+90 6
+ (6,5)
+1,null,null,We've had this since Christmas, so almost 7 months.
+2,nulll,null,I've taken the entire elevator and pulley system apart three times 
+3,null,null,because the cheap cord keeps stretching
+4,null,null,One of the plastic drawer pulls in the kitchen arrived broken
+5,null,null,The plastic piece that holds the toilet to the sink broke 
+6,condemn,condemn,The Barbie building inspector should be condemn.
+91 4
+ (3.2)
+1,null,null,Box had no cover when it came 
+2,null,null,pretty easy to put together
+3,love,love,I love this
+4,null,null,Daughter plays with it non stop
+92 5
+ (2,1)
+1,null,null,Overall the house is great 
+2,enjoy,enjoy,and I am sure my daughter will enjoy it. 
+3,null,null,However I am not sure if the missing battery door was the fault of 
+4,null,null,Mattel or Amazon when they converted to frustration-free packaging. 
+5,null,null,I would probably suggest going with the standard packaging.
+93 5
+ (1,2)
+1,expect,expect,Just what we expected however nothing like the ones from the old days.  
+2,null,null,This house has all necessary accessories 
+3,null,null,the only down side is that has only one bedroom
+4,null,null,it might need an expansion.
+5,null,null,My daughter is playing with it every time she can
+94 2
+ (2,1)
+1,null,null,Easy to put together
+2,love,love,My kids love it.
+95 3
+ (2,1)
+1,null,null,The product is beautiful put together
+2,love,love,my daughter loves her Barbie house! 
+3,null,null,But I received the house in a cardboard box, pieces were broken
+96 2
+ (1,2)
+1,cheaply,cheaply,I do find the some parts are cheaply made
+2,null,null,for the price asked!
+97 5
+ (1,3)
+1,sweet,sweet,Really sweet Barbie house
+2,null,null,What girl wouldn't love this?
+3,null,null,This house is as tall as the wooden dollhouse that my daughter has.
+4,null,null,I did not expect it to be so big! 
+5,null,null,no complaints except for the fact that I forgot to check the box to have this shipped in an Amazon box
+98 4
+ (1,2)
+1,disappoint,disappoint,I was disappointed 
+2,null,null,when we went to put it together and the handle to the freezer was broken off
+3,null,null,If it wasn't for Christmas 
+4,null,null,which is in two days I would have returned it and asked for a new one
+99 2
+ (1,2)
+1,disappoint,disappoint,It's just disappointing 
+2,null,null,when you spend so much money and something is already broken.
+100 2
+ (1,2)
+1,complain,complain,My only complaint
+2,null,null,is that it wasn't boxed to disguise the item
+101 3
+ (1,3)
+1,love,love,my niece loved it
+2,null,null,it took a while to put together but all the pieces were there
+3,null,null,and it came out looking like the picture so yay
+102 8
+ (8,6)
+1,null,null,Was a late Christmas present for my daughter
+2,null,null,She was so excited to put it together
+3,null,null,and when I opened up the box which looked horrible on the outside as well
+4,null,null,the parts looked as if they were just thrown in there
+5,null,null,some were sealed in clear bags 
+6,null,null,others were just in there and there was yellow paint dried up on the parts
+7,null,null,I didn't even want to go further with the parts, no instructions either
+8,disappint,disappoint,My daughter was clearly disappointed and so am I
+103 6
+ (5,6)
+1,null,null,You pay for the name, not the quality
+2,null,null,We have never purchased these big Barbie items for our girls because the quality is terrible
+3,null,null,Our youngest wanted this so bad for Christmas
+4,null,null,so we caved
+5,flimsy,flimsy,Very flimsy and cheap plastic pieces.
+6,null,null,hree parts were broken
+104 3
+ (1,3)
+1,want,want,My daughter wanted this so much!
+2,null,null,It was long to put together but not hard
+3,null,null,It's pretty stable and the little animated things inside the house are a lot of fun
+105 5
+ (2,3)
+1,null,null,There's a garage for a Barbie car if you have one
+2,love,love,What my daughter loves is 
+3,null,null,that there's actually room in all the room and the dolls fit well
+4,null,null,It's very pretty and very big
+5,null,null,It's as tall as my daughter's 4ft
+106 5
+ (1,2)
+1,junk,junk,This product is plastic JUNK. It is VERY misleading
+2,null,null,It specifically lists several pieces as making noises when it is
+3,null,null,You have to swap the top of it out to make it make other noises.
+4,null,null,Swapping the parts out is not feasible for small children
+5,null,null,It is NOT worth the money
+107 4
+ (2,3)
+1,null,null,I bought this as a Christmas present for my 5 year old daughter
+2,happy,happy,and I know she'll scream with happiness
+3,null,null,Putting it together is fairly simple
+4,null,null,even if the directions aren't intuitive
+108 5
+ (1,2)
+1,surprise,surprise,I was surprised 
+2,null,null,at how easily and quickly this went together
+3,null,null,I did it by myself in well under an hour
+4,null,null,The only slightly difficultly I had was with the garage door 
+5,null,null,but it was no problem once I read the directions. 
+109 3
+ (2,3)
+1,null,null,I am NOT a mechanically inclined person
+2,alarm,alarm,I was a bit alarmed
+3,null,null, when I saw all the pieces when I opened the box
+110 2
+ (1,2)
+1,love,love,My 9 year old daughter LOVES this house
+2,null,null,and its HUGE!!! Big enough for 3 girls to play at the same time
+111 4
+ (2,3)
+1,null,null,Barbie Dream house was the Christmas gift for my daughters 8 and 5 years old
+2,love,love,They loved it very much
+3,null,null,I saw there eyes shining while assembling it and they spend the whole day playing with it
+4,null,null,I realized also that it was the dream house of my wife also!!
+112 2
+ (1,2)
+1,cheap,cheap,it is cheap
+2,null,null, Garage door and elevator sticks a little the pool falls off the side.
+113 7
+ (7,5)
+1,null,null,I was so overwhelmed opening this box
+2,null,null,It was a plain box
+3,null,null,which is good since it was a Christmas present
+4,null,null,I opened it expecting to see the actual Barbie dream house box
+5,null,null,it was a whole lot of pieces But once I started putting it together it was so easy.
+6,null,null,It's like they preassembled some pieces
+7,love,love,Anyway my 4 year old loves the house
+114 5
+ (1,2)
+1,love,love,She loves the house
+2,null,null,the working TV (cell phone) the elevator the garage the sink.
+3,null,null,Looking at the cheap plastic as o put it together I thought what a rip off
+4,null,null,But seeing her play with it
+5,null,null,it was so worth it!
+115 8
+ (8,7)
+1,null,null,I was dreading putting this thing together tonight.
+2,null,null,It looked like it had tons of parts and would take me an hour or more to build
+3,null,null,I got my tools out and started at 9pm
+4,null,null,I had it completely built in 30 minutes. 
+5,null,null,I didn't need a single tool other than some scissors to open the bags 
+6,null,null,and a screw driver to put in the batteries
+7,null,null,Everything snapped together Easily and the instructions were clear too
+8,impressed,impressed,I am impressed.
+116 6
+ (5,6)
+1,null,null,This was a gift for my 6yo for Christmas
+2,null,null,This was the gift she asked for more than anything and she is not disappointed
+3,null,null,It did take some time to put together
+4,null,null,but the instructions were very clear.
+5,shocked,shocked,I was shocked at how big the house ended up being.
+6,null,null,It's almost as tall as my daughter.
+117 2
+ (2,1)
+1,null,null,a roof piece was missing and the elevator doesn't work
+2,disappoint,disappoint,Very disappointing
+118 3
+ (1,2)
+1,love,love,love it
+2,null,null,hours of playtime for my daughter, easy to assemble
+3,null,null,Perfect for a 4-7 year old
+119 2
+ (1,2)
+1,love,love,love it
+2,null,null,the flat screen TV built in for cell phone.
+120 2
+ (1,2)
+1,great,great,Was great gift to my girl birthday
+2,null,null,huge and very easy steps
+121 5
+ (1,4)
+1,great,great,It is great
+2,null,null,When opening the box for this
+3,null,null,it looks like an extremely daunting task with so many parts
+4,null,null,However everything snapped together quite easily and quickly with no tools required
+5,null,null,It does require a few stickers to be placed at certain locations which was left to the wife to accomplish
+122 4
+ (1,3)
+1,awesome,awesome,Awesome product I bought this for my 4 year old daughter
+2,null,null,The box opened up in a unique way so that you have easy access to it all
+3,null,null,Super easy fun to put together
+4,null,null,Everything snaps into place
+123 4
+ (2,4)
+1,null,null,My daughter saved her money all year and bought this for herself 
+2,great,great, It was a great purchase
+3,null,null,From my perspective,
+4,null,null,it's sturdy wasn't too hard to put together
+124 2
+ (1,2)
+1,great,great,It was a great purchase
+2,null,null,the garage/swimming pool and tv in the living room feature that a smartphone can fir in so Barbie can watch movies
+125 2
+ (2,1)
+1,null,null, it has a tv and an elevator
+2,cool,cool,it is so cool
+126 6
+ (5,1),(5,6)
+1,null,null,This was easy to assemble and does come fully  
+2,null,null,stocked to be a home for Barbie
+3,null,null,There are ALOT of small pieces
+4,null,null,you may want to have a storage container ready for them to be stored in
+5,5_star,5_star,It is not getting 5 stars from me 
+6,null,null,because the elevator broke with in 2 weeks and is a pain to fix
+127 4
+ (1,2)
+1,love,love,My granddaughter loves it
+2,null,null,I wonder if it is one of those very large toys that will mostly take up space,
+3,null,null,be a source of friendship one-upsmenship rather than a really well used toy
+4,null,null, I also find this
+128 3
+ (1,2)
+1,perfect,perfect,This is a perfect house for any Barbie collection
+2,null,null,It's much bigger than I thought it would be which is awesome and surprisingly
+3,null,null,I assembled it in no time
+129 2
+ (1,2)
+1,happy,happy,my girl is very happy
+2,null,null,loved all the extras
+130 3
+ (3,2)
+1,null,null,it did not come in original packaging
+2,null,null,a lot of the parts were missing to completely put it together
+3,annoy,annoy,Let's just say I'm a bit annoyed
+131 4
+ (3,2)
+1,null,null,As a father
+2,null,null,I actually enjoy making the elevator and garage go up and down
+3,enjoy,enjoy,I find it enjoyable
+4,null,null,My daughters always want me to play with them so I have to find some sort of enjoymen
+132 5
+ (3,4)
+1,null,null,2 days 
+2,null,null,the elevator has broke 3 times already
+3,diasppoint,disappoint,I was a bit disappointed 
+4,null,null,how flimsy the house is for the price
+5,null,null,Not sure if it will hold up for the number of years I would like her to get out of it
+133 4
+ (4,2)
+1,null,null,My daughter was speechless
+2,null.null.Easy to assemble
+3,null,null,but does take up space
+4,great,great,great buy
+134 5
+ (4,5)
+1,null,null,I bought this as a gift
+2,null,null,so I havnt opened it or built it yet 
+3,null,null,but we had the other Barbie dream house
+4,better,better,and this one seems so much better just by the box 
+5,null,null,It even has a fish tank that makes bubble noises and spins around
+135 2
+ (1,2)
+1,great,great,great buy
+2,null,null,The working garage door and elevator are fabulous
+136 3
+ (3,1)
+1,null,null,This went together fairly easily and seems pretty sturdy
+2,null,null,Takes up quite a bit of room
+3,love,love,but it is worth it as my grand daughter loves it
+137 2
+ (1,2)
+1,easy,easy,Very easy to put together 
+2,null,null,as many of the pieces are pre assembled
+138 2
+ (2,1)
+1,null,null,The garage elevator are wonderful addition
+2,great,great,great new product
+139 2
+ (1,2)
+1,love,love,Grand daughter loves it
+2,null,null,It takes a little skill and time to construct it is olver 3 feet tall
+140 2
+ (1,2)
+1,love,love,My 2 girls love this huge doll house
+2,null,null,It's taller than they are! 
+141 8
+ (1,2)
+1,love,love,My 2 girls love this huge doll house
+2,null,null,just somewhat time consuming since it comes with so many pieces
+3,null,null,It was not too difficult to put together
+4,null,null,which is a good thing cause it gives the kids so much to play with
+5,null,null,after playing with it for less than 30 minutes elevator was already 'broke'
+6,null,null,The string that's inside
+7,null,null,and works the elevator would not move around
+8,null,null,like it was supposed to
+142 8
+ (8,3)
+1,null,null,Package arrived battered 
+2,null,null,but no lost pieces nor broken parts
+3,null,null,Very easy to assemble
+4,null,null,If wrapping desired
+5,null,null,plan for difficult strategy and impressively large wrapping bag
+6,null,null,Some of the decals fail to adhere to smaller parts
+7,null,null,Garage door fails to easily open and stay in place.
+8,love,love,my 6 year old granddaughter loves this
+143 8
+ (5,3)
+1,null,null,Gift for my 7 year old daughter
+2,null,null,It came just as it was pictured and described
+3,null,null,Has a lot of accessories with it also Easy to put together
+4,null,null,She was playing in about 20 minutes after opening the box
+5,love,love,She loves it
+6,null,null,The only down side was the packaging
+7,null,null,It came in a big box and appeared that all the pieces were just thrown in there
+8,null,null,It was not neatly packed
+144 6
+ (5,6)
+1,null,null,Don't know how the grandkids will play with this
+2,null,null,but put it together and waiting until May 8th to give
+3,null,null,One of the corner pieces that connect the 2 floors together was broken in travel 
+4,null,null,but husband able to glue it together and continue assembly
+5,love,love,kids love it
+6,null,null,it is cute
+145 5
+ (5,4),(5,1)
+1,null,null,It was a big box
+2,null,null,and it has a slight imperfection on the elevator switch
+3,null,null,but I managed to fix it with a screwdriver
+4,null,null,It came with everything except the car and a Barbie
+5,good,good,A good gift
+146 4
+ (2,3)
+1,null,null,Charitable gift
+2,love,love,I'm sure she's loving it
+3,null,null,Adorable house
+4,null,null,elevator broke the same day we set it
+147 6
+ (6,5)
+1,null,null,We got this for our six year old daughter
+2,null,null,I put it together on Christmas eve
+3,null,null,The look on her face when she came down the stairs made it worth every penny
+4,null,null,The thing is massive
+5,null,null,has a ton of cool features and easy to put together
+6,love,love,she loves it
+148 7
+ (1,4)
+1,awesome,awesome,This is an awesome product
+2,null,null,I got these for my 4 year old granddaughters 
+3,null,null,and they have played with them constantly
+4,null,null,I'm told they were easy to assemble
+5,null,null,A feature I like is the table has indents so the small dishes
+6,null,null,actually stick to the table
+7,null,null,If they knock it over everything stays in place
+149 4
+ (1,2)
+1,love,love,My 9 year old daughter loves it
+2,null,null,It was really easy to put together 30 minutes total
+3,null,null,I would buy this again
+4,null,null,I ad no idea it had so many pieces
+150 6
+ (4,3)
+1,null,null,Purchased this for a christmas gift
+2,null,null,This is well constructed
+3,null,null,there are some nice extras 
+4,love,love,I know my daughter will love once she gets this
+5,null,null,If you want to give a very special gift 
+6,null,null,look at this
+151 5
+ (4,1)
+1,null,null, the elevator is already broken
+2,null,null,It seems to be a problem with the pulley
+3,null,null,but there is no way to get inside the track and fix it
+4,disappoint,disappoint,I am very disappointed to say the least
+5,null,null,Buyer beware
+152 4
+ (2,1)
+1,null,null,The features and design
+2,engag,engag,are quite engaging for young children
+3,null,null,nd the assembly is quick
+4,null,null,the quality is very poor
+153 6
+ (2,5)
+1,null,null,Honestly this toy is a monster
+2,horrible,horribel,and the directions are horrible
+3,null.null,if you go to the video tutorial to assemble it
+4,null,null,they skip a lot of steps
+5,null,null,The paper instructions skip those same steps
+6,null,null,Huge fail here
+154 6
+ (1,2),(1,4)
+1,issue,issue,The only 2 issues we've had
+2,null,null,was that my daughter had problems operating the garage door 
+3,null,null,since it came off the track once or twice
+4,null,null,The other issue is that it's very limited with the type of phone you can fit into the flat panel TV holder
+5,null,null,They could have made it bigger since modern phones are way bigger than they used to be
+6,null,null,That's a small issue but it could have easily been addressed
+155 8
+ (6,4)
+1,null,null,My daughter has begged me for one for a year
+2,null,null,Santa brought her this dream house
+3,null,null,We're now into January; she's still playing with it daily
+4,null,null,There was definitely a good bit of assembly required
+5,null,null,My husband had to take over on that part
+6.cool,cool,But it's a pretty cool dreamhouse
+7,null,null,I'm not crazy about the amount of space it takes up
+8,null,null,but that just makes it even more magical to my daughter
+156 4
+ (4,2)
+1,null,null,Dreamhouse is definitely a step up from the other barbie houses
+2,null,null,It is big 4 feet tall
+3,null,null,so make sure you have space for it because it can be hassle keep moving it
+4,love,love,My daughter loves it
+157 4
+ (4,1)
+1,null,null,the elevator got jammed after having it for only 3 days
+2,null,null,Now, my husband has to figure out how to fix it 
+3,null,null,If the elevator is non-functional
+4,away,away,it will take away from the functionality of the dreamhouse
+158 6
+ (5,1)
+1,null,null,I am currently waiting on my 3rd replacement from Amazon
+2,null,null,The first one was received with a broken elevator
+3,null,null,the second was received with a broken Column that is used to hold the floor up
+4,null,null,Can't imagine what will be wrong with the next one
+5,unhappy,unhappy,All I know is that I am extremely unhappy
+6,null,null,my children unable to play with their Christmas gift
+159 4
+ (4,2)
+1,null,null,I just wish it was built a little better
+2,null,null,After playing with the elevator for 2 days broke
+3,null,null,doesn't appear to be fixable
+4,happy,happy,Not very happy about that but otherwise was fine
+160 6
+ (1,2)
+1,love,love,Granddaughter LOVES the dream house
+2,null,null,Sound effects are fantastic. 
+3.null,null,Apparently
+4,null,null,I'm not crazy about the amount of space it takes up
+5,null,null,but that just makes it even more magical to my daughter
+6,null,null,I am sure she will continue to love it for years to come
+161 6
+ (1,2)
+1,love,love,Granddaughter LOVES the dream house
+2,null,null,Decorating items are fun
+3,null,null,Apparently
+4,null,null,I'm not crazy about the amount of space it takes up
+5,null,null,but that just makes it even more magical to my daughter
+6,null,null,I am sure she will continue to love it for years to come
+162 6
+ (3,5)
+1,null,null,I'm not crazy about the amount of space it takes up
+2,null,null,but that just makes it even more magical to my daughter
+3,love,love,Granddaughter LOVES the dream house
+4,null,null,Apparently
+5,null,null,it was easy to put together
+6,null,null,I am sure she will continue to love it for years to come
+163 7
+ (7,6)
+1,null,null,as described
+2,null,null,I bought it as a Christmas gift for my 7 year old niece
+3,null,null,and ordered it to be shipped to Japan just a few days before Christmas
+4,null,null,I thought that she would receive it around New Years's day
+5,null,null,The gift arrived on Christmas Eve
+6,null,null,My niece was so thrilled when she saw the Dreamhouse on Christmas Day
+7,good,good,Good product
+164 7
+ (1,3)
+1,great,great,It was great
+2,null,null,I bought this for my 5 year old daughter
+3,null,null,she loves it
+4,null,null,Be prepared to devote about 2 
+5,null,null,and a half hours to putting it together 
+6,null,null,and be sure to have batteries
+7,null,null,The garage door was kind of tricky, but I eventually go it
+165 5
+ (1,2)
+1,love,love,My 4 year old daughter loved the house
+2,null,null,She loves all the accessories
+3,null,null,The instructions were easy to follow and made the assembling easy
+4,null,null,The only problem we've had is with the elevator
+5,null,null,It is hard for her to push the button and pull it up and down
+166 6
+ (4,3)
+1,null,null,Barbie Dreamhouse delivered Jan
+2,null,null,The package looked as if it had been around the world and back
+3,null,null,The TV
+4,cool,cool,is the coolest thing ever
+5,null,null,She's been playing with it for a few months now 
+6,null,null,and the only piece that is missing is a tooth brush
+167 6
+ (4,3)
+1,null,null,Barbie Dreamhouse delivered Jan
+2,null,null,The package looked as if it had been around the world and back
+3,null,null,I would say best Dream House to date in terms of quality affordability and style
+4,love,love,perfect my daughter love it and it's easy set up
+5,null,null,She's been playing with it for a few months now 
+6,null,null,and the only piece that is missing is a tooth brush
+168 5
+ (1,4)
+1,great,great,Great dollhouse
+2,null,null,Comes with all the accessories needed for hours of pretend play
+3,null,null,Very sturdy
+4,null,null,this dollhouse has everything
+5,null,null,It will be a challenge to get this to my granddaughter's house
+169 3
+ (1,2)
+1,love,love,my daughter loves this
+2,null,null,lots of great features for her barbies.
+3,null,null,Apparently
+170 4
+ (4,3)
+1,null,null,This dreamhouse is mostly plastic construction
+2,null,null,instead of the old cardboard type they had when I was a kid
+3,null,null,It is very sturdy and looks nice when assembled
+4,love,love,My girls love it
+171 4
+ (3,4)
+1,null,null,This dreamhouse is mostly plastic construction
+2,null,null,instead of the old cardboard type they had when I was a kid
+3,love,love,My girls love it
+4,null,null,especially the furniture
+172 5
+ (5,4)
+1,null,null,The only problem
+2,null,null,is that the elevator broke only two days after Christmas 
+3,null,null,and will no longer go up and down
+4,null,null,It is very easy to break
+5,disappoint,disappoint,this was a huge disappointment.
+173 5
+ (2,3)
+1,perfect,perfect,Perfect gift for my niece
+2,null,null,Hours of fun
+3,null,null,The cell phone slot is amazing
+4,null,null,Huge elegant
+5,null,null,my daughter said "I can't stop stearing at it
+174 4
+ (1,2)
+1,perfect,perfect,Perfect gift for my niece
+2,null,null,The elevator is a great feature
+3,null,null,Huge elegant
+4,null,null,my daughter said "I can't stop stearing at it
+175 4
+ (1,2)
+1,love,love,My daughter loves it
+2,null,null,Cute movable realistic active features
+3,null,null,,Huge elegant
+4,null,null,my daughter said "I can't stop stearing at it
+176 4
+  (1,2)
+1,love,love,My daughter loves it
+2,null,null,especially the flat screen smart phone feature
+3,null,null,,Huge elegant
+4,null,null,my daughter said "I can't stop stearing at it
+177 6
+ (4,5)
+1,null,null,Didn't get to see it put together
+2,null,null,they chose to wait until they were home 
+3,null,null,started her off with this for her first major item
+4,good,good,Good
+5,null,null,Much better quality than I had expected
+6,null,null,and the set up only took me about an hour
+178 5
+ (3,2)
+1,null,null,It is a dream house
+2,null,null,Easy to assemble adorable sticker decals 
+3,character,character,adds lots of character to the home
+4,null,null,for my daughter
+5,null,null,and the set up only took me about an hour
+179 6
+ (5,6)
+1,null,null,First I would recommend to any parent purchasing to read the dimensions
+2,null,null,This thing is HUGE
+3,null,null,But that being said
+4,null,null,my twin 7 year old daughters have plenty of room to both play with it simultaneously 
+5,love,love,and love all the extras which come with it
+6,null,null,silverware cookware hangers for clothes a bathroom which makes noise
+180 5
+ (2,1)
+1,null,null,The house easily snapped together without the need for tools
+2,great,great,it is great
+3,null,null,The child must be told to
+4,null,null,use the "device" that is made to move the elevator up and down
+5,null,null,if the child tends to move the elevator with their hand up and down
+181 6
+ (1,6)
+1,love,love,My little girl loves it
+2,null,null,As an 80's kid
+3,null,null,I had the huge dream house with the red roof
+5,null,null,and I thought this was no comparison
+6,null,null,it really is cute and better than the 70s townhouse 
+182 6
+ (1,2)
+1,love,love,My little girl loves it
+2,null,null,It has lots of cute little accessories
+3,null,null,The child must be told to
+4,null,null,use the "device" that is made to move the elevator up and down
+5,null,null,we did have some trouble with the elevator
+6,null,null,my son took it off and was able to get it working again
+183 4
+ (3,2)
+1,null,null,We purchase this for Christmas for our girls
+2,null,null,it was very big and easy to put together
+3,love,love,my daughter loves it 
+4,null,null,its almost taller than her
+184 4
+ (1,3)
+1,great,great,Great for a child with an active imagination
+2,null,null,My daughter invites a diverse group of guests over
+3,null,null,there are many pieces easy to set up
+4,null,null,so have patience
+185 6
+ (4,5)
+1,null,null,I was against buying a Barbie Dream House
+2,null,null,as I thought it would be cheap 
+3,null,null,and simply take up space
+4,thoughtfully,thoughtfully,but this is the most thoughtfully engineered toy I've seen
+5,null,null,It assembles easily 
+6,null,null,and my daughter has spent hours playing with it
+186 9
+ (9,7)
+1,null,null,It took less than an hour for my husband to install 
+2,null,null,but for some little pieces and accessories
+3,null,null,they don't tell you where to put it on the manual
+4,null,null,We had to look at the picture on the box to figure it out
+5,null,null,Other than that
+6,null,null,overall quality is really good.
+7,null,null,It catches everyone's eyes 
+8,null,null,whenever they come into my daughter' playroom
+9,love,love,and my daughter loves to play with it
+187 3
+ (1,2)
+1,love,love,My daughter loves this
+2,null,null,Very large
+3,null,null,You have to have a lot of room for them to play with it comfortably
+188 4
+ (3,4)
+1,null,null,Easy to assemble and sturdy.
+2,null,null,My 4 year old is obsessed with her dream house
+3,love,love,love to plays with it daily
+4,null,null,Lots of fun furnished rooms and musical parts.
+189 4
+ (2,1)
+1,null,null,Lots of detail
+2,love,love,Kids love it
+3,null,null,It took less than an hour for my husband to install 
+4,null,null,and simply take up space
+190 4
+ (1,2)
+1,love,love,My daughter loves it 
+2,null,null,plays with it every day
+3,null,null,Honestly I expected her to love it for a week and loose interest 
+4,null,null,but that is not the case
+191 5
+ (2,1)
+1,null,null,Beautiful dollhouse.
+2,recommend,recommend,Recommend for 3 to 4yrs and older
+3,null,null,One of the walls on the bottom floor came broken
+4,null,null, Luckily I was still able to put it together and make it look presentable
+5,null,null,I guess thats what I get for waiting until Christmas to open the box
+192 4
+ (1,2)
+1,excellent,excellent,Excellent Barbie house
+2,null,null,Was actually easier to put together 
+3,null,null,when we first saw all the parts
+4,null,null,Took two adults about 15-20 minutes after all the parts were out
+193 5
+ (2,1)
+1,null,null,My princess castle was a surprise
+2,love,love,She loves it 
+3,null,null,and this was the best price around
+4,null,null,It takes time to build it but it worth a big
+5,null,null,take us about an hour and a half to put it together
+194 6
+ (5,6)
+1,null,null,It takes time to build it but it worth a big
+2,null,null,take us about an hour and a half to put it together
+3,null,null, Luckily I was still able to put it together and make it look presentable
+4,null,null,I guess thats what I get for waiting until Christmas to open the box
+5,love,love,My granddaughter loves this
+6,null,null,all that came with it makes it an extra plus
+195 5
+ (4,3)
+1,null,null,I bought this for my niece
+2,null,null,It was pretty easy to put together 
+3,null,null,and looked absolutely beautiful once it was put together
+4,love,love,she loves it
+5,null,null,I can't wait for my niece to open this on Christmas
+196 5
+ (2,3)
+1,null,null,My daughter woke up to this on Christmas morning  
+2,love,love,loved it
+3,null,null,It only took me a little over an hour to build so easy
+4,null,null,The only annoying part was putting the stickers on 
+5,lol
+197 5
+ (2,3)
+1,null,null,Purchased this for my daughter
+2,great,great,It was fairly easy to assemble
+3,null,null,but the garage door constantly comes off track
+4,null,null,The elevator operation is little difficult to operate by childs
+5,null,null,I can't wait for my niece to open this on Christmas
+198 5
+ (1,3)
+1,great,great,Great concept but the elevator does not work properly
+2,null,null,the bed canopy will not stay up and there is one piece of furniture 
+3,null,null,that is supposed to be used for 4 different functions 
+5,null,null,For the price they could have just made separate pieces.
+199 4
+ (3,2) 
+1,null,null,Arrived ahead of schedule
+2,null,null,Bigger than I anticipated
+3,great,great,which is actually a great thing
+4,null,null,Lot's of room to move items around and situate
+200 5
+ (4,3)
+1,null,null,Took me about an hour to assemble. 
+2,null,null,Directions are pretty clear.
+3,null,null,Surprisingly stable and secure
+4,fun,fun,Lots of fun for the price
+5,null,null,Came well packaged
+201 5
+ (1,3)
+1,skeptical,skeptical,I was a little skeptical 
+2,null,null,because it came in a brown box
+3,null,null,not the Dreamhouse packaging 
+4,null,null,but everything was there
+5,null,null,and I put it together in 30 minutes
+202 6
+ (1,2)
+1,love,love,My daughter who is 7 loves this doll house 
+2,null,null,she play with it all the time 
+3,null,null,easy setup
+4,null,null,the only thing was the garage gave me a warm time
+5,null,null,my husband had to help me with that part
+6,null,null,it took me about half of an hour
+203 5
+ (2,3)
+1,null,null,I honestly didn't have very high hopes in regards to it's longevity
+2,love,love,Love the barbie dream house
+3,null,null, It's really big 
+4,null,null,and all the accessories keep my 5 year old busy for hours
+5,null,null,Only negative was that the elevator broke
+204 5
+ (4,5)
+1,null,null,Bought this barbue house for my 9 year old and my 3 year old
+2,null,null,as a Christmas gift
+3,null,null,i have been looking for another interactive dresser
+4,love,love,They absolutely loved it.
+5,null,null,Very fun!
+205 6
+ (3,4)
+1,null,null,My kid can't stop play with it since Christmas
+2,null,null,usually she forgot for hers new toys few days after she received it 
+3,great,great,really great product
+4,null,null,very good quality good size good size very stable good colors.
+5,null,null,she start asking for something new
+6,null,null,Expensive but well worth it toy
+206 4
+ (1,2)
+1,amazing,amazing,Amazing house
+2,null,null,so much to do
+3,null,null,Bought this barbue house for my 9 year old and my 3 year old
+4,null,null,as a Christmas gift
+207 6
+ (3,4)
+1,null,null,she's 5 years old
+2,null,null,and I'm sure she'll play with it for another 5 years
+3,love,love,I loved the fact 
+4,null,null,that it was easy to assemble
+5,null,null,everything was in the box
+6,null,null,Thank you so much
+208 5
+ (4,5)
+1,null,null,a year later
+2.null,null,and it is still in pretty good shape
+3,null,null,My 9 year old still plays with it
+4,obsessed,obsessed,obsessed with the barbie house
+5,null,null,this product is great
+209 6
+ (5,3),(5,4)
+1,null,null,Got this for my 4 year old daughter for Christmas
+2,null,null,the moving elevator broke on Christmas Day
+3,null,null,The Dreamhouse seems pricey
+4,null,null,but there are many accessories included
+5,worth,worth,Worth the money
+6,null,null,smiles were priceless
+210 6
+ (4,6)
+1,null,null,Very good deal my girls aren't the easiest on things
+2,null,null,and it is still fully intact
+3,null,null,thank you
+4,disappoint,disappoint,I was a little disappointed
+5,null,null,when we noticed on Christmas eve as we were finishing putting the house together
+6,null,null,that one of the legs to the kitchen table was not included
+211 5
+ (3,4)
+1,null,null,The elevator does not work
+2,null,null,and the garage door gets stuck.
+3,want,want,My granddaughter wanted the doll
+4,null,null,because of the garage door and elevator. 
+5,null,null.bought for my daughter
+212 5
+ (5,3)
+1,null,null,I realize it is plastic
+2,null,null,The elevator is difficult for kids to move up and down 
+3,null,null,full of nice gadgets easy to built
+4,null,null,the tv is a phone holder
+5,love,love,It just takes up a lot if space as It is quite big but kids love it.
+212 5
+ (1,2)
+1,disappoint,disappoint,bit disappointed in the quality
+2,null,null,I realize it is plastic
+3,null,null,but a little more heavy duty/durability would be nice
+4,null,null,Both were broken within days
+5,null,null,same with the garage
+213 4
+ (1,3)
+1,adores,adores,Our little girl just adores this Barbie Dreamhouse
+2,null,null,This was a long deserved upgrade from an older doll house
+3,null,null,it was everything that was promised on the advertisements
+4,null,null,thank you
+214 5
+ (4,5)
+1,null,null,This was a gift for my almost 3 year old daughter
+2,null,null,everything was in the box
+3,null,null,Thank you so much
+4,love,love,Absolutely love all the working parts
+5,null,null,Was pretty easy to put together.
+215 4
+ (1,4)
+1,great,grea,Provides great joy for my little one
+2,null,null,thank you
+3,null,null,I realize it is plastic
+4,null,null,The best part is there is a picture frame that will hold your phone and act like TV in the living room
+216 4
+ (4,3)
+1,null,null,Bought this for my 4 year old
+2,null,null,there were so many pieces 
+3,null,null,but it was very easy to assemble
+4,love,love,My daughter absolutely loves it
+217 2
+ (1,2)
+1,love,love,I know my niece is going to love it
+2,null,null,So many cool little features!
+218 5
+ (2,4)
+1,null,null,easy to assemble
+2,complaint,complaint,My only complaint is that for $200 the plastic pieces are somewhat flimsy
+3,null,null,especially the balcony pieces
+4,null,null,I would've loved to see the frame be a little sturdier
+5,null,null,Just a little too much flexibility for my taste.
+219 4
+ (4,2)
+1,null,null,House came as expected
+2,null,null,The side of the garage was broken 
+3,null,null,Probably wouldn't buy a big product with lots of pieces online again
+4,disappoint,disappoint,disappoint with it
+220 5
+ (4,3)
+1,null,null,bought for my granddaughter
+2,null,null,Easy to put together
+3,null,null,Truly awesome with so many little details
+4,love,love,Granddaughter loves it.
+5,null,null,the elevator cable can easily get messed up
+221 4
+ (2,3)
+1,null,null,Pros 
+2,entertain,entertain,Keeps my daughters entertained 
+3,null,null,Lots of variety to the house Sound effects are awesome! 
+4,null,null,Thank you so much
+222 4
+ (3,4)
+1,null.null,bought for my daughter
+2,null,null,challenging when putting together
+3,love,love,daughter love it
+4,null,null,very big make sure you have room
+223 5
+ (1,3)
+1,great,great,It was a great gift
+2,null,null,But I wish I had checked the price at other sites
+3,null,null,Beautiful and easy to put together
+4,null,null,It was 50 dollars cheaper at Wal mart
+5,null,null,that is where it was shipped from
+224 5
+ (4,5)
+1,null,null,Easy to put together with the directions.
+2,null,null,Rooms could be a little bigger
+3,null,null,she put it together with NO help from anyone
+4,love,love,My daughter loves the elevator
+5,null,null,elevatr up and down
+225 4
+ (2,3)
+1,null,null,Should've been designed with more than one noise and light up stand
+2,frustrat,frustrat,It's frustrating to be playing abd
+3,null,null,have to change out that feature
+4,null,null,Garage is flimsy
+226 5
+ (5,4)
+1,null,null,Purchased for my granddaughter's 9th birthday
+2,null,null,all parts were included 
+3,null,null,which is not always the case
+4,null,null,Looks great 
+5,love,love,and she loves it
+227 7
+ (2,1)
+1,null,null,It's massive and fun
+2,love,love,9 year old daughter loves it
+3,null,null,One piece broke while I was putting it together
+4,null,null,but after putting other pieces on you can't tell
+5,null,null,The fan and the aquarium doesn't work
+6,null,null,But I am not taking hung apart to send it back
+7,null,null,Maybe I can request new pieces
+228 4
+ (3,2)
+1,null,null,My daughter opened it on Christmas Day
+2,null,null,Amazon had the best price around
+3,worth,worth,worth for the price
+4,null,null,it arrived on my doorstep in 2 days
+229 4
+ (3,4)
+1,null,null,Bought for my daughter
+2,null,null,she plays with it every day
+3,great,great,this is a great product
+4,null,null,sturdy and fully furnished
+230 5
+ (3,4)
+1,null,null,it is a present form my girl
+2,null,null,she opend it at Christmas Day
+3,best,best,This is the best dream house they have made so far
+4,null,null,made a good working elevator!
+5,thank you
+231 5
+ (1,2)
+1,great,great,This house have great, features
+2,null,null,The garage is awesome with the fold down pool
+3,null,null,This house is much better quality than any of the previous years
+4,null,null,4,null,null,it arrived on my doorstep in 2 days
+5,null,null,Maybe I can request new pieces
+232 7
+ (2,4)
+1,null,null,buy for Christmas present
+2,love,love,My 4 year old daughter loves it
+3,null,null,The garage door is a bit poorly designed 
+4,null,null,a nice toy and its huge
+5,null,null,took about a hour to put together
+6,null,null,and that's with a 4 yr old trying to help
+7,null,null,It's not hard at all like some people have said
+233 5
+ (2,1)
+1,null,null,Easy to assemble
+2,great,great,it is a great toy
+3,null,null,Granddaughters love it
+4,null,null,and that's with a 4 yr old trying to help
+5,null,null,It's not hard at all like some people have said
+234 6
+ (3,2)
+1,null,null,Amazon did a great job in getting it to my house before Christmas
+2,null,null,it is huge
+3,nice,nice,Looks nice
+4,null,null,not at all operational
+5,null,null,not as good as the commercials 
+235 5
+ (4,3)
+1,null,null,buy for Christmas present
+2,null,null,Amazon did a great job in getting it to my house before Christmas
+3,null,null,Easy to assembly and very good quality.
+4,great,great,great product
+5,null,null,thank you
+236 5
+ (3,1)
+1,null,null,This is so cute
+2,null,null,It is much larger than we envisioned
+3,nice,nice,looks nice
+4,null,null,came befor Christmas
+237 4
+ (2,1)
+1,null,null,it has a lot of extras
+2,fun,fun,It is a lot of fun to play with
+3,null,null,buy for Christmas present
+4,null,null,Amazon did a great job in getting it to my house before Christmas
+238 6
+ (5,3)
+1,null,null,boughte for my daughter
+2,null,null, she is 4 years old
+3,null,null,this dollhouse is amazing 
+4,null,null,The order arrived on time
+5,love,love,my daughter loves it
+6,null,null,it took an hour to put together
+239 4
+ (1,2)
+1,great,great,This is a great little dollhouse 
+2,null,null,it does cool stuff and was easy to put together.
+3,null,null,buy for Christmas present
+4,null,null,Amazon did a great job in getting it to my house before Christmas
+240 5
+ (3,5)
+1,null,null,My daughter opened it on Christmas Day
+2,null,null,Amazon had the best price around
+3,like,like,I liked the fact
+4,null,null,that it only took about an hour to put together
+5,null,null,and it was actually easy to put together.
+241 4
+ (4,3)
+1,null,null,bought for my girl
+2,null,null,Quick delivery thank amazon
+3,null,null,very easy assembly with a lot of pieces
+4,impress,impress,I am very impressed with it.
+242 5
+ (3,4)
+1,null,null,It took me about 1.5 hours to put together
+2,null,null,and the stickers are a bit of a pain.
+3,great,great, the instructions were great
+4,null,null,assembly was pretty easy
+5,null,null,daughter is having a great time with her new Barbie house
+243 4
+ (3,4)
+1,null,null,for my daughter that elevator stopped working properly.
+2,null,null,the price it should be better then that
+3,like,like, but I like that 
+4,null,null,it didn't take long to set it up. 
+244 5
+ (5,4)
+1,null,null,bought for my ground daughter
+2,null,null,Lots of playtime here
+3,null,null,she opend it on Christmas Day
+4,null,null,From the elevator to the pool to the garage
+5,fun,fun,It's a lot of fun for them
+245 5
+ (3,4)
+1,null,null,This came today 
+2,null,null,Took less then an hour
+3,love,love,Granddaughter is 8 and loves it 
+4,null,null, Lots of cute features
+5,null,null,would buy again
+246 6
+ (4,3)
+1,null,null,my daughter got this for Christmas
+2,null,null, and it has been the centerpiece of play in our house
+3,null,null,This is such a cool house
+4,love,love,love it
+5,null,null,by the way
+6,null,null,the elevator broke quickly
+247 7
+ (7,6)
+1,null,null,This came today 
+2,null,null,Took less then an hour
+3,null,null,my daughter got this for Christmas
+4,null,null,To be so expensive
+5,null,null,some of the plastic is really cheaply made
+6,null,null,Some parts are pretty delicate
+7,great,great,looks great
+248 5
+ (5,4)
+1,null,null,Our 5 yr old almost 6 daughter got this for Christmas
+2,null,null,amazon delivery quickly
+3,null,null,Took about 2 hrs to put it together
+4,null,null,the removable sink fish tank, grill that make real sounds is great
+5,love,love,I love it
+249 4
+ (3,2)
+1,null,null,All parts were included in the box	
+2,null,null,Easy to assemble
+3,pleased,pleased,I Am Very Pleased With This Dollhouse
+4,null,null,Thank You
+250 6
+ (4,5)
+1,null,null,The name says it all
+2,null,null,Item arrived promptly and it was a gift
+3,null,null,Took my husband a few hours to sort it all out and put it together
+4,love,love,she love 
+5,null,null,all of these little pieces
+6,null,null,it literally comes in about 75 pieces
+251 5
+ (4,3)
+1,null,null,buy at a great price
+2,null,null,Lots of little pieces
+3,null,null,it was super easy to put together
+4,love,love,My daughter loves to play it
+5,null,null,Thing is cheap elevator and garage door don't really work well
+252 5
+ (5,3)
+1,null,null,I bought this for my daughter
+2,null,null,She hasn't stopped playing with it since Christmas
+3,null,null,I was thrilled with the easy ordering 
+4,null,null,and delivery process.
+5,great,great,it was great
+253 5
+ (3,2)
+1,null,null,My granddaughter is four 
+2,null,null,It was easy to put together
+3,impressed,impressed,very impressed with this product
+4,null,null,I did it while watching a movie
+5,null,null,thank you 
+254 4
+ (3,2)
+1,null,null,My daughter get this for her 5th Birthday
+2,null,null,It was super easy to assemble and came with enough accessories 
+3,play,play,that my daughter could play right away.
+4,null,null,This was the Christmas hit this year!! 
+255 5
+ (4,5)
+1,null,null,I bought this form my girl
+2,null,null,She plays with it for hours
+3,null,null,it is as described and comes with all the accessories 
+4,great,great,this is a great present
+5,null,null,She loves all the accessories
+256 5
+ (2,3)
+1,null,null,My daughter get this for her 5th Birthday
+2,play,play,She is always playing with it.
+3,null,null,actually pretty easy to put together
+4,null,null,I would buy again if needed
+5,null,null,Happy little girl
+257 5
+ (3,1)
+1,null,null,So easy to put together
+2,null,null,Me and a friend put together in about 30mins
+3,love,love,My 8year old daughter loved it
+4,null,null,I bought this for my daughter
+5,null,null,it arrived before Christmas Day
+258 5
+ (4,2)
+1,null,null,This house is used daily by our 1 and 3 year old grand kids
+2,null,null,It's so nice and big
+3,null,null,took a while to assemble
+4,great,great,Great product totally recommend
+5,null,null, it came on time received from holidays
+259 4
+ (3,2)
+1,null,null,I bought this form my girl
+2,null,null,Sooo many cool little details and parts
+3,great,great,it is great product
+4,null,null,I'm so glad we paid the extra for the Dreamhouse
+260 5
+ (1,2)
+1,love,love,Love this and so does my 6 yr old girl
+2,null,null,Easy to put together and she plays with it a lot!  
+3,null,null, it came on time received from holidays
+4,null,null,I would buy again if needed
+5,null,null,Happy little girl
+261 5
+ (3,4)
+1,null,null,I bought this for my other Granddaughter
+2,null,null,and she hasn't stopped playing with her Barbie dream house
+3,nice,nice,it is nice
+4,null,null,bcause the price was good
+5,null,null,it came on time received from holidays
+262 5
+ (2,3)
+1,null,null,She is 7 and her eyes grew bigger than her head when she figured it out
+2,love,love,We love it and enjoy playing together
+3,null,null,Very easy to put together
+4,null,null,took a while to assemble
+5,null,null,Happy little girl
+263 6
+ (4,3)
+1,null,null,Came with a ton of accessories
+2,null,null,Barbies who had originally taken over my entire house have their own space to stay in
+3,null,null,very big tons of fun!
+4,best,best,Best Barbie house ever
+5,null,null,Perfect size for our 4 year old to grow with
+6,null,null,she's a lucky girl
+264 5
+ (1,2)
+1,cool,cool,Coolest barbie home
+2,null,null,that u can switch the fan fishtank sink
+3,null,null,I wish I had waited to buy this
+4,null,null,The price is significantly lower than when I purchased it
+5,null,null,This definitely keeps her busy
+265 5
+ (4,3)
+1,null,null,Bought for my 4yr.old granddaughter for Christmas
+2,null,null,my husband and I are trying to figure out how to put in together.
+3,null,null,A lot of pieces to assemble but pretty easy
+4,great,great,it was great 
+5,null,null,You'll have to buy The Barbie Convertible to go in the garage
+266 5
+ (2,3)
+1,null,null,Bought for my 4yr.old granddaughter for Christmas
+2,love,love,she loves to play this
+3,null,null,A lot of little pieces but my daughter said it was quite easy to assemble
+4,null,null,she's a lucky girl
+5,null,null,it came on time received from holidays
+267 5
+ (5,4)
+1,null,null,Birthday gift to my daughter
+2,null,null,it came very quickly
+3,null,null,I recived on Chritmas Day
+4,null,null,The tv can hold certain cell phone models or ipod touch.
+5,cool,cool,this Features is very cool
+268 6
+ (4,2)
+1,null,null,Birthday gift to my daughter
+2,null,null,It came with all the pieces 
+3,null,null,and not one thing was missing.
+4,love,love,My daughter loves her dollhouse
+5,null,null,it came very quickly
+6,null,null,I recived on Chritmas Day
+269 5
+ (2,3)
+1,null,null,Birthday gift to my daughter
+2,love,love,Daughter loves her Barbie dream house
+3,null,null, It was a lot easier to put together than expected
+4,null,null,it came very quickly
+5,null,null,I recived on Chritmas Day
+270 4
+ (3,4)
+1,null,null,I got this for my granddaughters 5th birthday
+2,null,null,She has other doll houses 
+3,love,love,My Granddaughter loves this house
+4,null,null,this one really has lots of exciting play areas
+271 5
+ (2,3)
+1,null,null,I got this for my granddaughters 5th birthday
+2,great,great,very great product
+3,null,null,Seems to be well made and very colorful and everything worked really well
+4,null,null,it came very quickly
+5,null,null,I recived on Chritmas Day
+272 5
+ (1,4)
+1,amazing,amazing,This house is amazing!
+2,null,null,It sold for way more in the stores during Xmas season
+3,null,null,and I got in in 2 days free shipping with Prime
+4,null,null,Its more modern than the one I bought 
+5,null,null,You'll have to buy The Barbie Convertible to go in the garage
+273 5
+ (3,2) 
+1,null,null,Pieces were broken on delivery
+2,null,null,Elevator broken Garage door broken
+3,awful,awful,Awful purchase
+4,null,null,my daughter will use the stairs
+5,null,null, i say that for the money we spent is not acceptable
+274 5
+ (3,2)
+1,null,null,I got this for my granddaughters 5th birthday
+2,null,null,Happy with the product great quality 
+3,happy,happy,and keeps my girls happy for hours playing barbie
+4,null,null, it is in really nice condition 
+5,null,null,thanks a lot!!!
+275 6
+ (2,3)
+1,null,null, They put it together themselves within thirty minutes.
+2,love,love,My granddaughter loves it
+3,null,null,very easy to assemble
+4,null,null,Only downside is the price
+5,null,null,the elevator broke the first day
+6,null,null,not sure if it was manufacturers defect or "toy abuse."
+276 5
+ (3,4)
+1,null,null,I bought for my daughter
+2,null,null,it came very quickly
+3,love,love,My Daughter loves this house
+4,null,null, It was easy to assemble and has amazing features!
+5,null,null,My daughter is one heaven!
+277 5
+ (2,1)
+1,null,null,It was pretty easy to put together
+2,recommend,recommend,Would definitely recommend.
+3,null,null,My daughter is one heaven!
+4,null,null,it came very quickly
+5,null,null,I recived on Chritmas Day
